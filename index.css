@@ -1,0 +1,56 @@
+body{
+  background-color: #ccffcc;
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 20px;
+  padding: 30px 40px;
+}
+
+/* header-listの中のli要素にのみ適用したいCSSを記述してください */
+.header-list li{
+  float:left;
+  padding:33px 20px;
+}
+
+li{
+  list-style: none;
+}
+
+.firstmidasi{
+  padding-left:250px;
+}
+
+.secondmidasi{
+  padding-left:300px;
+}
+.thirdmidasi{
+  padding-left:230px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.nikome{
+  list-style: none;
+  padding-left:220px;
+  font-size: 30px;
+}
+
+.ikkome{
+  padding-left:180px;
+  list-style: none;
+  font-size: 30px;
+}
+
+h2{
+  font-size: 20px;
+}
